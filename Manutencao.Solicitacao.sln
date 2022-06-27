@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manutencao.Solicitacao.Dominio", "src\Manutencao.Solicitacao.Dominio\Manutencao.Solicitacao.Dominio.csproj", "{7406EC10-6DC7-4B0A-B2FE-A1AE04E62C81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manutencao.Solicitacao.Testes", "test\Manutencao.Solicitacao.Testes\Manutencao.Solicitacao.Testes.csproj", "{A660A08D-D55C-41AC-BFA9-8408100693EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7406EC10-6DC7-4B0A-B2FE-A1AE04E62C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7406EC10-6DC7-4B0A-B2FE-A1AE04E62C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7406EC10-6DC7-4B0A-B2FE-A1AE04E62C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7406EC10-6DC7-4B0A-B2FE-A1AE04E62C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A660A08D-D55C-41AC-BFA9-8408100693EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A660A08D-D55C-41AC-BFA9-8408100693EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A660A08D-D55C-41AC-BFA9-8408100693EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A660A08D-D55C-41AC-BFA9-8408100693EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CBEDFC3-4A42-4A4B-B9B3-977CB79C781F}
+	EndGlobalSection
+EndGlobal
